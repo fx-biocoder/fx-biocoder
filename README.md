@@ -1,5 +1,3 @@
-# Facundo Martínez
-
 ¡Hola! Soy un estudiante avanzado de la carrera de Ingeniería en Agrobiotecnología, actualmente estoy especializándome en el área de bioinformática.
 
 ## Proyectos
