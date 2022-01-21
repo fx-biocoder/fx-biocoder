@@ -3,9 +3,9 @@
 ## Proyectos
 
 ### En curso
+- [Bioinformática: Tasa de conservación de codones](https://github.com/fx-biocoder/Conservacion-de-codones-raros)
 - [Tests estadísticos en R](https://github.com/fx-biocoder/Tests-estadisticos)
 ### Finalizados
-- [Bioinformática: Tasa de conservación de codones](https://github.com/fx-biocoder/Conservacion-de-codones-raros)
 - [Red neuronal básica con Tensorflow](https://github.com/fx-biocoder/redes-neuronales)
 - [Modelos lineales mixtos](https://github.com/fx-biocoder/Modelos-lineales-mixtos)
 - [Modelo Beverton-Holt de crecimiento poblacional](https://github.com/fx-biocoder/Beverton-Holt-Model)
