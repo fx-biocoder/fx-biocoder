@@ -3,7 +3,7 @@
 ## Proyectos
 
 ### En curso
-- [Bioinformática: Tasa de conservación de codones](https://github.com/fx-biocoder/Conservacion-de-codones-raros)
+- [Bioinformática: Herramientas de análisis de conservación de codones](https://github.com/fx-biocoder/Conservacion-de-codones-raros)
 - [Tests estadísticos en R](https://github.com/fx-biocoder/Tests-estadisticos)
 ### Finalizados
 - [Red neuronal básica con Tensorflow](https://github.com/fx-biocoder/redes-neuronales)
