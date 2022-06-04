@@ -1,7 +1,8 @@
-¡Hola! Soy un estudiante avanzado de la carrera de Ingeniería en Agrobiotecnología, actualmente estoy especializándome en el área de bioinformática.
+¡Hola! Soy un estudiante avanzado de la carrera de Ingeniería en Agrobiotecnología, actualmente estoy especializándome en el sector IT como Python Developer.
 
 ## Portfolio
 
+- [Data Analytics: Delitos en la Ciudad de Buenos Aires](https://github.com/fx-biocoder/DelitosCABA/blob/main/Analisis.ipynb)
 - [Bioinformática: Herramientas de análisis de conservación de codones](https://github.com/fx-biocoder/Conservacion-de-codones-raros)
 - [Tests estadísticos en R](https://github.com/fx-biocoder/Tests-estadisticos)
 - [Red neuronal básica con Tensorflow](https://github.com/fx-biocoder/redes-neuronales)
