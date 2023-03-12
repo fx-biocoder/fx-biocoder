@@ -1,13 +1,15 @@
-## Portfolio
+Python Developer, with a background in Biotechnology. Currently specializing in Software Engineering using C++. 
 
-- [Data Analytics: Delitos en la Ciudad de Buenos Aires](https://github.com/fx-biocoder/DelitosCABA/blob/main/Analisis.ipynb)
-- [Bioinformática: Herramientas de análisis de conservación de codones](https://github.com/fx-biocoder/Conservacion-de-codones-raros)
-- [Tests estadísticos en R](https://github.com/fx-biocoder/Tests-estadisticos)
-- [Red neuronal básica con Tensorflow](https://github.com/fx-biocoder/redes-neuronales)
-- [Modelos lineales mixtos](https://github.com/fx-biocoder/Modelos-lineales-mixtos)
-- [Modelo Beverton-Holt de crecimiento poblacional](https://github.com/fx-biocoder/Beverton-Holt-Model)
-- [Regresiones lineales múltiples en R](https://github.com/fx-biocoder/Regresion-lineal-multiple)
-- [Formulario de Login](https://github.com/fx-biocoder/Login-form)
+## Some of my projects
 
-## Más información
+- [Data Analytics: Crime Statistics in Ciudad de Buenos Aires](https://github.com/fx-biocoder/DelitosCABA/blob/main/Analisis.ipynb)
+- [Bioinformatis: Tools for Codon Conservation Rate Analysis](https://github.com/fx-biocoder/Conservacion-de-codones-raros)
+- [Statistical Inference Tests in R](https://github.com/fx-biocoder/Tests-estadisticos)
+- [Easy Neural Network in TensorFlow](https://github.com/fx-biocoder/redes-neuronales)
+- [Mixed Linear Models](https://github.com/fx-biocoder/Modelos-lineales-mixtos)
+- [Beverton-Holt Population Growth Model in R](https://github.com/fx-biocoder/Beverton-Holt-Model)
+- [Multiple Linear Regression in R](https://github.com/fx-biocoder/Regresion-lineal-multiple)
+- [Basic Login Form using HTML and CSS](https://github.com/fx-biocoder/Login-form)
+
+## Contact me
 - [LinkedIn](https://linkedin.com/in/fxmartinez)
