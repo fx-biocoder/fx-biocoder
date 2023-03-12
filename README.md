@@ -1,5 +1,3 @@
-¡Hola! Soy un estudiante avanzado de la carrera de Ingeniería en Agrobiotecnología, actualmente estoy especializándome en el sector IT como Python Developer.
-
 ## Portfolio
 
 - [Data Analytics: Delitos en la Ciudad de Buenos Aires](https://github.com/fx-biocoder/DelitosCABA/blob/main/Analisis.ipynb)
@@ -12,5 +10,4 @@
 - [Formulario de Login](https://github.com/fx-biocoder/Login-form)
 
 ## Más información
-- [Mi sitio web](https://fx-biocoder.github.io)
 - [LinkedIn](https://linkedin.com/in/fxmartinez)
