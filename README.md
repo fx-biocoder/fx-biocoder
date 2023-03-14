@@ -2,6 +2,7 @@ Python Developer, with a background in Biotechnology. Currently specializing in 
 
 ## Some of my projects
 
+- [Software Architecture: Model-View-Presenter in C++ using Factory Method](https://github.com/fx-biocoder/mvp-in-cpp)
 - [Data Analytics: Crime Statistics in Ciudad de Buenos Aires](https://github.com/fx-biocoder/DelitosCABA/blob/main/Analisis.ipynb)
 - [Bioinformatics: Algorithm for Codon Conservation Rate Analysis](https://github.com/fx-biocoder/Conservacion-de-codones-raros)
 - [Statistical Inference Tests in R](https://github.com/fx-biocoder/Tests-estadisticos)
