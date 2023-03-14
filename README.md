@@ -1,4 +1,4 @@
-Python Developer, with a background in Biotechnology. Currently specializing in Software Engineering using C++. 
+Software Developer, with a background in Biotechnology. Currently specializing in Software Engineering using C++. 
 
 ## Some of my projects
 
