@@ -10,6 +10,6 @@ Software Developer, with a background in Biotechnology. Currently specializing i
 - [Mixed Linear Models](https://github.com/fx-biocoder/Modelos-lineales-mixtos)
 - [Beverton-Holt Population Growth Model in R](https://github.com/fx-biocoder/Beverton-Holt-Model)
 - [Multiple Linear Regression in R](https://github.com/fx-biocoder/Regresion-lineal-multiple)
--
+
 ## Contact me
 - [LinkedIn](https://linkedin.com/in/fxmartinez)
