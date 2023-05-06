@@ -14,3 +14,4 @@ Software Developer, with a background in Biotechnology. Currently specializing i
 
 ## Contact me
 - [LinkedIn](https://linkedin.com/in/fxmartinez)
+- [Reddit](https://www.reddit.com/user/fx-biocoder)
