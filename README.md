@@ -2,6 +2,7 @@ Software Developer, with a background in Biotechnology. Currently specializing i
 
 ## Some of my projects
 
+- [Software Architecture: A quick reference guide for SOLID Design Principles in C++](https://github.com/fx-biocoder/solid-in-cpp)
 - [Software Architecture: Model-View-Presenter in C++ using Factory Method](https://github.com/fx-biocoder/mvp-in-cpp)
 - [Data Analytics: Crime Statistics in Ciudad de Buenos Aires](https://github.com/fx-biocoder/DelitosCABA/blob/main/Analisis.ipynb)
 - [Bioinformatics: Algorithm for Codon Conservation Rate Analysis](https://github.com/fx-biocoder/codon-conservation-rate)
