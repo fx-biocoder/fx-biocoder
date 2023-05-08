@@ -20,7 +20,8 @@ Software Developer, with a background in Biotechnology. Currently specializing i
 
 - [A list of documents I've created for social media](https://github.com/fx-biocoder/useful-docs)
 - [Should you use frameworks and/or prebuilt engines for your project?](https://www.linkedin.com/feed/update/urn:li:linkedInArticle:7055171527461191680/)
-- [Article in Spanish: Breve guía de gestión de proyectos para principiantes](https://www.reddit.com/r/devsarg/comments/1339uzg/est%C3%A1s_por_comenzar_un_proyecto_individual_o/)
+- [Breve guía de gestión de proyectos para principiantes](https://www.reddit.com/r/devsarg/comments/1339uzg/est%C3%A1s_por_comenzar_un_proyecto_individual_o/)
+- [¿Recién empezás a programar y te cuesta? Estas herramientas te van a ayudar MUCHO](https://www.reddit.com/r/programacion/comments/13bzfw2/reci%C3%A9n_empez%C3%A1s_a_programar_y_te_cuesta_estas/)
 
 ## Contact me
 - [LinkedIn](https://linkedin.com/in/fxmartinez)
