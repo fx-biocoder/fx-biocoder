@@ -12,7 +12,7 @@ Software Developer, with a background in Biotechnology. Currently specializing i
 - [Beverton-Holt Population Growth Model in R](https://github.com/fx-biocoder/Beverton-Holt-Model)
 - [Multiple Linear Regression in R](https://github.com/fx-biocoder/Regresion-lineal-multiple)
 
-## Projects I'm collaborating with:
+## Projects I'm collaborating on
 
 - [ClassPlanner: a web application for automating class presentations with OpenAI](https://github.com/federicoviola/classplanner)
 
