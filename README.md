@@ -1,6 +1,8 @@
 ![Header](./github-header-image.png)
 
-Hello! I'm a Software Developer with a background in Biotechnology. I'm currently specializing in Software Engineering using C++. 
+Hello! I'm a Software Developer with a background in Biotechnology. I'm currently specializing in Software Engineering using C++.
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## :white_check_mark: Some of my projects
 
@@ -26,5 +28,6 @@ Hello! I'm a Software Developer with a background in Biotechnology. I'm currentl
 - [¿Recién empezás a programar y te cuesta? Estas herramientas te van a ayudar MUCHO](https://www.reddit.com/r/programacion/comments/13bzfw2/reci%C3%A9n_empez%C3%A1s_a_programar_y_te_cuesta_estas/)
 
 ## :phone: Contact me
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
 - [LinkedIn](https://linkedin.com/in/fxmartinez)
-- [Reddit](https://www.reddit.com/user/fx-biocoder)
+- [Reddit](https://reddit.com/fx-biocoder)
