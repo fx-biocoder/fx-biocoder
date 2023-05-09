@@ -26,6 +26,7 @@ Hello! I'm a Software Developer with a background in Biotechnology. I'm currentl
 - [Should you use frameworks and/or prebuilt engines for your project?](https://www.linkedin.com/feed/update/urn:li:linkedInArticle:7055171527461191680/)
 - [Breve guía de gestión de proyectos para principiantes](https://www.reddit.com/r/devsarg/comments/1339uzg/est%C3%A1s_por_comenzar_un_proyecto_individual_o/)
 - [¿Recién empezás a programar y te cuesta? Estas herramientas te van a ayudar MUCHO](https://www.reddit.com/r/programacion/comments/13bzfw2/reci%C3%A9n_empez%C3%A1s_a_programar_y_te_cuesta_estas/)
+- [SOLID: A Set of Design Principles to Improve your Software](https://www.linkedin.com/pulse/solid-set-design-principles-improve-your-software-facundo-mart%2525C3%2525ADnez%3FtrackingId=p4TtO9TLQFqbOHLSQ5OocQ%253D%253D/?trackingId=p4TtO9TLQFqbOHLSQ5OocQ%3D%3D)
 
 ## :phone: Contact me
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
