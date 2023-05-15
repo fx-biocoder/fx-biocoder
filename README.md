@@ -31,4 +31,4 @@ Hello! I'm a Software Developer with a background in Biotechnology. I'm currentl
 ## :phone: Contact me
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
 - [LinkedIn](https://linkedin.com/in/fxmartinez)
-- [Reddit](https://reddit.com/fx-biocoder)
+- [Reddit](https://reddit.com/u/fx-biocoder)
