@@ -28,6 +28,12 @@ Hello! I'm a Software Developer with a background in Biotechnology. I'm currentl
 - [¿Recién empezás a programar y te cuesta? Estas herramientas te van a ayudar MUCHO](https://www.reddit.com/r/programacion/comments/13bzfw2/reci%C3%A9n_empez%C3%A1s_a_programar_y_te_cuesta_estas/)
 - [SOLID: A Set of Design Principles to Improve your Software](https://www.linkedin.com/pulse/solid-set-design-principles-improve-your-software-facundo-mart%2525C3%2525ADnez%3FtrackingId=p4TtO9TLQFqbOHLSQ5OocQ%253D%253D/?trackingId=p4TtO9TLQFqbOHLSQ5OocQ%3D%3D)
 
+I love creating free content for everyone. If my articles and repos were useful to you, please consider supporting me on Ko-Fi. It would be of great help and I would really appreciate it!
+
+![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)
+
+[Buy me a coffee](https://ko-fi.com/biocoder)
+
 ## :phone: Contact me
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
 - [LinkedIn](https://linkedin.com/in/fxmartinez)
