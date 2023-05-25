@@ -6,6 +6,7 @@ Hello! I'm a Software Developer with a background in Biotechnology. I'm currentl
 
 ## :white_check_mark: Some of my projects
 
+- [Software Development: The Ultimate Guide to Object-Oriented Programming in C++](https://github.com/fx-biocoder/oop-in-cpp)
 - [Software Architecture: A quick reference guide for SOLID Design Principles in C++](https://github.com/fx-biocoder/solid-in-cpp)
 - [Software Architecture: Model-View-Presenter in C++ using Factory Method](https://github.com/fx-biocoder/mvp-in-cpp)
 - [Data Analytics: Crime Statistics in Ciudad de Buenos Aires](https://github.com/fx-biocoder/DelitosCABA/blob/main/Analisis.ipynb)
