@@ -39,13 +39,13 @@ Hello! I'm a Software Developer with a background in Biotechnology. I'm currentl
 - [¿Recién empezás a programar y te cuesta? Estas herramientas te van a ayudar MUCHO](https://www.reddit.com/r/programacion/comments/13bzfw2/reci%C3%A9n_empez%C3%A1s_a_programar_y_te_cuesta_estas/)
 - [SOLID: A Set of Design Principles to Improve your Software](https://www.linkedin.com/pulse/solid-set-design-principles-improve-your-software-facundo-mart%2525C3%2525ADnez%3FtrackingId=p4TtO9TLQFqbOHLSQ5OocQ%253D%253D/?trackingId=p4TtO9TLQFqbOHLSQ5OocQ%3D%3D)
 
-I love creating free content for everyone. If my articles and repos were useful to you, please consider supporting me on Github Sponsors or Ko-Fi. It would be of great help and I would really appreciate it!
+## 💙 Contributing
 
-![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)
+I love creating free content for everyone. If my articles and repos were useful to you, please consider supporting me on Github Sponsors, Ko-Fi or PayPal. It would be of great help and I would really appreciate it!
 
-[Buy me a coffee](https://ko-fi.com/biocoder)
+![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA) ![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white) ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white) 
 
-[Github Sponsors](https://github.com/sponsors/fx-biocoder)
+ [Github Sponsors](https://github.com/sponsors/fx-biocoder) | [Ko-Fi](https://ko-fi.com/biocoder) | [PayPal.me](https://paypal.me/facumartinez680)
 
 ## :phone: Contact me
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
