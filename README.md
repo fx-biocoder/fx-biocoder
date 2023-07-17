@@ -7,7 +7,7 @@ Hello! I'm a Software Developer with a background in Biotechnology.
 ## :white_check_mark: Some of my projects
 
 ### Python
-- [BioSeeker: Python Tool for Bioinformatics](https://github.com/fx-biocoder/codon-conservation-rate)
+- [BioSeeker: Python Tool for Bioinformatics](https://github.com/fx-biocoder/BioSeeker)
 - [Data Analytics: Crime Statistics in Ciudad de Buenos Aires](https://github.com/fx-biocoder/DelitosCABA/blob/main/Analisis.ipynb)
 - [Easy Neural Network with TensorFlow](https://github.com/fx-biocoder/redes-neuronales)
 
