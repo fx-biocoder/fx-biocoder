@@ -17,9 +17,10 @@ Hello! I'm a Software Developer with a background in Biotechnology.
 - [Multiple Linear Regression in R](https://github.com/fx-biocoder/Regresion-lineal-multiple)
 - [Statistical Inference Tests in R](https://github.com/fx-biocoder/Tests-estadisticos)
 
-## :white_check_mark: Projects I'm collaborating on
+## :white_check_mark: Projects I've collaborated on
 
 - [ClassPlanner: a web application for automating class presentations with OpenAI](https://github.com/federicoviola/classplanner)
+- [Proyecto Hypernova - Spaceship videogame written in C++](https://neogambit.itch.io/proyecto-hypernova)
 
 ## ✅ In C++: A collection of C++ resources I've created
 - [Software Development: The Ultimate Guide to Object-Oriented Programming in C++](https://github.com/fx-biocoder/oop-in-cpp)
