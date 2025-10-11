@@ -6,8 +6,8 @@ Hello! I'm a Software Developer with a background in Biotechnology.
 
 ## :white_check_mark: Some of my projects
 
-### Web Development
-- ***NEW!*** [Better LinkedIn: Spam filter for your LinkedIn feed](https://github.com/fx-biocoder/better-linkedin)
+### Web Extensions/Addons
+- ***NEW!*** [Better LinkedIn: Content filter for your LinkedIn feed](https://github.com/fx-biocoder/better-linkedin)
 
 ### Bioinformatics and Data Analytics
 - [BioSeeker: Python Tool for Bioinformatics](https://github.com/fx-biocoder/BioSeeker)
