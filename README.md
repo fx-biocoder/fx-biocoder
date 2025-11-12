@@ -22,7 +22,7 @@ Hello! I'm a Software Developer with a background in Biotechnology.
 
 ## ✅ Cheatsheets and Notes
 
-- [GoF Design Patterns](https://github.com/fx-biocoder/design-patterns) (Work In Progress)
+- [GoF Design Patterns](https://github.com/fx-biocoder/design-patterns)
 - [Git cheatsheet for beginners](https://github.com/fx-biocoder/git-cheatsheet)
 - [TypeScript Learning Notes](https://github.com/fx-biocoder/typescript-notes)
 
